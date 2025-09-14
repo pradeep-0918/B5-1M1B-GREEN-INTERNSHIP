@@ -1,7 +1,5 @@
 # B5-1M1B-GREEN-INTERNSHIP
-Green Internship ID
-
-1M1BGI050470
+Green Internship ID - 1M1BGI050470
 # 🌍 Blockchain-Based Carbon Credit Marketplace Prototype  
 
 ## 📌 Project Overview  
